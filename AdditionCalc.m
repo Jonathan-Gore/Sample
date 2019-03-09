@@ -1,4 +1,4 @@
-% Simple Addition Calculator
+% Complex and Simple Addition Calculator
 
 SC = input("input two numbers to be added in brackets as such [1 2]: ")
 
