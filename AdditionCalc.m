@@ -7,3 +7,4 @@ SC(1)+SC(2)
 clear all
 
 %making random comment on PC (step 1)
+%making random comment on Github web client (step 2)
